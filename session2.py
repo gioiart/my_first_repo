@@ -1,6 +1,6 @@
 
 def func(a, b)
-    return a + b + 2
+    return a + b + 5
 
 
 def func2(a, b)
